@@ -2,8 +2,8 @@
 
 - 🔭 I’m currently working on conkeria-launcher
 - 🌱 I’m currently learning Java
-- 🤔 I’m looking for help with ...
-- 📫 How to reach me: ...
+- 🤔 I’m looking for help with Java
+- 📫 How to reach me: Aredonia#5286
 
 
 <a>
